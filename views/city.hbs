@@ -1,0 +1,24 @@
+<div class="city">
+  <div class="card">
+    <h1>{{city.title}}</h1>
+    <div class="card-image">
+      <img src="{{city.image}}" alt="{{city.title}}">
+    </div>
+    <div class="card-content">
+      <span class="card-title">{{city.title}}</span>
+    </div>
+    <div class="card-content">
+      <span class="card-title">{{city.location}} Country</span>
+      <span class="card-title">{{city.numberOfResidents}}</span>
+      <span class="card-title">{{city.square}} m3</span>
+      <span class="card-title">{{city.yearOfFoundation}} year of foundation</span>
+    </div>
+    <div class="card-action">
+      <a href="/cities/{{city.id}}/edit?allow=true">Update City1</a>
+    </div>
+    <form onsubmit="deleteFc({{city.id}})">
+      <input type="hidden" name="id">
+      <button class="btn btn-primary" type="submit">Update city</button>
+    </form>
+  </div>
+</div>

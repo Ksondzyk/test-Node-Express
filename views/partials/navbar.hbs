@@ -1,0 +1,22 @@
+<nav>
+  <div class="nav-wrapper">
+    <a href="#" class="brand-logo">Cities</a>
+    <ul id="nav-mobile" class="right hide-on-med-and-down">
+      {{#if isHome}}
+      <li class="active"><a href="/">Home</a></li>
+      {{else}}
+      <li><a href="/">Home</a></li>
+      {{/if}}
+      {{#if isCities}}
+      <li class="active"><a href="/cities">Cities</a></li>
+      {{else}}
+      <li><a href="/cities">Cities</a></li>
+      {{/if}}
+      {{#if isAddCity}}
+      <li class="active"><a href="/addcity">Add City</a></li>
+      {{else}}
+      <li><a href="/addcity">Add City</a></li>
+      {{/if}}
+    </ul>
+  </div>
+</nav>

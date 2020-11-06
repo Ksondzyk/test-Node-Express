@@ -1,0 +1,21 @@
+.nav-wrapper {
+  padding: 0 2rem;
+}
+.city {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.city h1 {
+  margin-bottom: 2rem;
+}
+
+.city img {
+  max-width: 600px;
+  height: auto;
+}
+.city .data {
+  font-size: 2.5rem;
+}

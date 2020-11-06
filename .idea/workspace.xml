@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ffa0894-b7f6-4ec3-aa3d-9d8af15b8b18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jp59RSxuBcCvWaDY2MNTwI0BUR" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.cities.js">
+    <configuration name="cities.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/routes/cities.js" working-dir="$PROJECT_DIR$/routes">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.cities.js" />
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ffa0894-b7f6-4ec3-aa3d-9d8af15b8b18" name="Default Changelist" comment="" />
+      <created>1604488040882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604488040882</updated>
+      <workItem from="1604488041940" duration="241000" />
+      <workItem from="1604663746268" duration="404000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="527" y="232" key="#Notifications" timestamp="1604488280498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="232" key="#Notifications/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604488280498" />
+    <state width="1515" height="204" key="GridCell.Tab.0.bottom" timestamp="1604664149703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604664149703" />
+    <state width="1515" height="204" key="GridCell.Tab.0.center" timestamp="1604664149703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="204" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604664149703" />
+    <state width="1515" height="204" key="GridCell.Tab.0.left" timestamp="1604664149703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="204" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604664149703" />
+    <state width="1515" height="204" key="GridCell.Tab.0.right" timestamp="1604664149703">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="204" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604664149703" />
+    <state width="1515" height="253" key="GridCell.Tab.1.bottom" timestamp="1604664149694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="253" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604664149694" />
+    <state width="1515" height="253" key="GridCell.Tab.1.center" timestamp="1604664149694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="253" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604664149694" />
+    <state width="1515" height="253" key="GridCell.Tab.1.left" timestamp="1604664149694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="253" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604664149694" />
+    <state width="1515" height="253" key="GridCell.Tab.1.right" timestamp="1604664149694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="253" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604664149694" />
+    <state width="1515" height="253" key="GridCell.Tab.2.bottom" timestamp="1604664149694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="253" key="GridCell.Tab.2.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604664149694" />
+    <state width="1515" height="253" key="GridCell.Tab.2.center" timestamp="1604664149694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="253" key="GridCell.Tab.2.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604664149694" />
+    <state width="1515" height="253" key="GridCell.Tab.2.left" timestamp="1604664149694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="253" key="GridCell.Tab.2.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604664149694" />
+    <state width="1515" height="253" key="GridCell.Tab.2.right" timestamp="1604664149694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="253" key="GridCell.Tab.2.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604664149694" />
+    <state width="1515" height="253" key="GridCell.Tab.3.bottom" timestamp="1604664149694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="253" key="GridCell.Tab.3.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604664149694" />
+    <state width="1515" height="253" key="GridCell.Tab.3.center" timestamp="1604664149694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="253" key="GridCell.Tab.3.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604664149694" />
+    <state width="1515" height="253" key="GridCell.Tab.3.left" timestamp="1604664149694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="253" key="GridCell.Tab.3.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604664149694" />
+    <state width="1515" height="253" key="GridCell.Tab.3.right" timestamp="1604664149694">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="253" key="GridCell.Tab.3.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604664149694" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1604488200707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604488200707" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/cities.js</url>
+          <line>6</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/cities.js</url>
+          <line>14</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/cities.js</url>
+          <line>39</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/cities.js</url>
+          <line>44</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/cities.js</url>
+          <line>15</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
